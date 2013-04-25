@@ -11,6 +11,7 @@ MTEmberApp.Router.map(function() {
   // and this.route for URLs that represent adjectives or verbs modifying those nouns.
     this.resource('about');
     this.resource('contacts');
+    this.resource('test123')
 });
 
 // App.ApplicationController = Ember.Controller.extend({
